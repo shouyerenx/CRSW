@@ -5,8 +5,7 @@ interferometric phase linking of long SAR time series.
 
 The method is described in the manuscript *Interferometric phase linking for
 long time series based on coherence magnitude matrix regularization and
-overlap fusion*, which is being submitted to the *ISPRS Journal of
-Photogrammetry and Remote Sensing*.
+overlap fusion*.
 
 ## Requirements
 
